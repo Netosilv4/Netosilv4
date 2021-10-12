@@ -1,29 +1,49 @@
-- 🌱 I’m currently learning -> node
-- 📫 How to reach me -> reach me at the following email: netos2@rocketmail.com  
+<h1 align="center">Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
 
- <div>
-  <a href="https://github.com/netosilv4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=netosilv4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netosilv4&layout=compact&langs_count=7&theme=dracula"/>
+<h2 align="center"> Welcome to my github... :octocat:</h2>
+<br><br><br>
+
+- <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> I am currently a student of the school Trybe since April 2021; 
+
+- :hourglass_flowing_sand: Dedicating my time on learning;
+
+- :muscle: Practice;
+
+
+- 📫 How to reach me: netos2@rocketmail.com
+
+<!-- - :octocat: <a href="https://netosilv4.github.io/portfolio">GitHub Page</a> -->
+
+- <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="https://www.linkedin.com/in/netosilv4/"> LinkedIn</a>
+
+<br><br>
+
+
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Netosilv4&show_icons=true&theme=chartreuse-dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netosilv4&layout=compact&theme=chartreuse-dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="MaterialUI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="right" alt="Money" height="150" width="150"  src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966">
+<br><br><br>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Netosilv4&&bg_color=0d1117&color=95ff00&line=95ff00&point=fff&area=false&area_color=190ff8&hide_border=false" /></div>
+<br><br><br>
+<div align="center">
+
+<img src = "https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" width="85px"> 
+<img src = "https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="75px">
+<img src = "https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" width="110px"> 
+<img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="90px">
+<img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="90px">
+<img src="https://img.shields.io/badge/-git-1C1C1C?logo=git&logoColor=F05032&style=plastic" width="55px"><br> 
+<img src="https://img.shields.io/badge/-React%20Router-1C1C1C?logo=react-router&logoColor=CA4245&style=plastic" width="130px">
+<img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC&style=plastic" width="85px">
+<img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="70px">
+<img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325&style=plastic" width="65px"> 
+
+
+<img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
 </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:netos2@rocketmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/netosilv4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<br><br><br>
+
+<h2 align="center"> Thanks for the visiting <br> 
+<img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150px">
+</h2> 
